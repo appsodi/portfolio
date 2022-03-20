@@ -6,7 +6,7 @@
     let enterNewScene = false; //새로운 scene이 시작되는 순간 True
     let acc = 0.1;
     let delayedYOffset = 0;
-    let rafID; //안쓰는 항목
+    let rafID; //안쓰는 항목 삭제 요청 
     let rafState;
 
 
