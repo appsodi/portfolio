@@ -7,7 +7,7 @@
     let acc = 0.1;
     let delayedYOffset = 0;
     let rafID; //안쓰는 항목 삭제 요청 
-    let rafState;
+    let rafState; //git test
 
 
     const sceneInfo = [ // 씬 안에 속성을 부여해서 값을 조절(계산된 값을 바꾸는 것은 여기서 하지 않음)
